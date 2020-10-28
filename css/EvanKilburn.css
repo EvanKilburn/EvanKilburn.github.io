@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+body{
+    font-family: 'Ubuntu';
+}
+.container{
+    max-width:1100px;
+    align-self: center;
+}
+h1{
+    color:#373b53;
+    line-height: 72px;
+    font-size: 48px;
+}
+h2{
+    color:#000000;
+    line-height: 28px;
+    font-size: 28px;
+}
+h3{
+    color:#373b53;
+    line-height: 64px;
+    font-size: 38px; 
+}
+h4{
+    color:#373b53;
+    line-height: 72px;
+    font-size: 48px;
+    text-align: center;
+}
+h5{
+    color:#000000;
+    line-height: 28px;
+    font-size: 28px;
+    text-align: center;
+}
+
+p{
+    color:#3e3e3e;
+    line-height: 30px;
+    font-size: 16px;
+}
+
+.header{
+    display:block;
+    height:100vh;
+}
+
+.center-page{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.display-flex{
+    display:flex;
+    justify-content: center;
+}
+.flex-row{
+    flex-direction: row;
+}
+.flex-column{
+    flex-direction: column;
+}
+.flex-1{
+    flex:1;
+}
+.flex-center{
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    padding-top: 30%;
+}
+
+.width-50{
+    align-self: flex-end;
+}
+
+.padding-r-50{
+    padding-right:50px;
+}
+
+.button{
+    background-color:#5d54ee;
+    text-decoration: none;
+    border-radius: 5px;
+    padding-top:14px;
+    padding-bottom:14px;
+    padding-right:20px;
+    padding-left:20px;
+    margin-right:10px;
+    color:white;
+    transition-duration: 200ms;
+
+}
+
+.button:hover{
+    background-color:#fc6681;
+    transition-duration: 200ms;
+
+}
+.header-buttons{
+    margin-top:40px;
+}
+
+
+.margin-10{
+    margin:20px;
+}
+.padding-10{
+    padding:10px;
+}
+
