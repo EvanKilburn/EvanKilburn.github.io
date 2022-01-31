@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc455ed6.css",
+    "main.js": "/static/js/main.2de22d31.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/SpeltacularBakingLogo.png": "/static/media/SpeltacularBakingLogo.6ac538fa610242d8eb6f.png",
+    "static/media/StockOverflowLogo.png": "/static/media/StockOverflowLogo.f241d6d4fb91568731c2.png",
+    "static/media/ChessLogo.jpeg": "/static/media/ChessLogo.07f58cd9f510967071b8.jpeg",
+    "static/media/BudgyLogo.png": "/static/media/BudgyLogo.265ff4ab0c9eab2ed71e.png",
+    "static/media/Headshot.jpg": "/static/media/Headshot.178c168a66bf6ebffe0b.jpg",
+    "static/media/VeilLogo.png": "/static/media/VeilLogo.fc94990fd1eb4ac8d91d.png",
+    "static/media/SmartWindowsLogo.jpeg": "/static/media/SmartWindowsLogo.c8eb660eaa52d4a8fb86.jpeg",
+    "static/media/AmazonLogo.png": "/static/media/AmazonLogo.959c9625f5d51679aedf.png",
+    "index.html": "/index.html",
+    "main.fc455ed6.css.map": "/static/css/main.fc455ed6.css.map",
+    "main.2de22d31.js.map": "/static/js/main.2de22d31.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc455ed6.css",
+    "static/js/main.2de22d31.js"
+  ]
+}
